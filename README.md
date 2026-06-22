@@ -2,4 +2,4 @@
 
 포트폴리오
 
-[공부하며 배운 점](https://github.com/SuKong0288/My_Study_Mk01/tree/main/Study_Save)
+[공부하며 배운 점을 저장하는 곳](https://github.com/SuKong0288/My_Study_Mk01/tree/main/Study_Save)
